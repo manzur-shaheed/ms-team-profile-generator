@@ -10,7 +10,7 @@ describe("Employee class", () => {
         expect(typeof(employee)).toBe("object");
     });
 
-    it("Test employee name property", () => {
+    it("Test Employee name property", () => {
         // arrange
         const name = "John";
         const id = 1;
@@ -23,7 +23,7 @@ describe("Employee class", () => {
         expect(employee.name).toBe(name);
     });
 
-    it("Test employee id property", () => {
+    it("Test Employee id property", () => {
         // arrange
         const name = "John";
         const id = 1;
@@ -37,7 +37,7 @@ describe("Employee class", () => {
         expect(employee.id).toBe(id);
     });
 
-    it("Test employee email property", () => {
+    it("Test Employee email property", () => {
         // arrange
         const name = "John";
         const id = 1;
@@ -50,7 +50,7 @@ describe("Employee class", () => {
         expect(employee.email).toBe(email);
     });
 
-    it("Test employee getName() method", () => {
+    it("Test Employee getName() method", () => {
         // arrange
         const name = "John";
         const id = 1;
@@ -63,7 +63,7 @@ describe("Employee class", () => {
         expect(employee.getName()).toBe(name);
     });
 
-    it("Test employee getId() method", () => {
+    it("Test Employee getId() method", () => {
         // arrange
         const name = "John";
         const id = 1;
@@ -76,7 +76,7 @@ describe("Employee class", () => {
         expect(employee.getId()).toBe(id);
     });
 
-    it("Test employee getEmail() method", () => {
+    it("Test Employee getEmail() method", () => {
         // arrange
         const name = "John";
         const id = 1;
@@ -89,7 +89,7 @@ describe("Employee class", () => {
         expect(employee.getEmail()).toBe(email);
     });
 
-    it("Test employee getRole() method", () => {
+    it("Test Employee getRole() method", () => {
         // arrange
         const name = "John";
         const id = 1;
