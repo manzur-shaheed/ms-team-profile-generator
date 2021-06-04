@@ -1,0 +1,26 @@
+{
+  "name": "ms-team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzur-shaheed/ms-team-profile-generator.git"
+  },
+  "keywords": [
+    "Profile",
+    "Team"
+  ],
+  "author": "Manzur Shaheed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manzur-shaheed/ms-team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/manzur-shaheed/ms-team-profile-generator#readme"
+}
