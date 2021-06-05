@@ -19,12 +19,12 @@
   ],
   "author": "Manzur Shaheed",
   "license": "MIT",
-	"dependencies": {
-		"inquirer": "^6.2.1"
-	},
-	"devDependencies": {
-		"jest": "^24.8.0"
-	},
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
   "bugs": {
     "url": "https://github.com/manzur-shaheed/ms-team-profile-generator/issues"
   },

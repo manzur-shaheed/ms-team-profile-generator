@@ -1,0 +1,12 @@
+.red {
+    background-color: red!important;
+}
+
+.row {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.card {
+    margin: 10px;
+}
