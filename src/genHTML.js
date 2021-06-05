@@ -82,7 +82,7 @@ module.exports = employees => {
     </head>
     <body>
         <main>
-            <div class="jumbotron jumbotron-fluid red">
+            <div class="jumbotron jumbotron-fluid red p-5">
                 <h1 class="text-center text-light">My Team</h1>
             </div>
         </main>
