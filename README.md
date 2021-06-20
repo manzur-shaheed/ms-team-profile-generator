@@ -3,9 +3,13 @@
 
 Command line interface application to generate a team profile in HTML.
 ## Installation
+
 Code: [Code](https://github.com/manzur-shaheed/ms-team-profile-generator) 
 
 You can clone code from [github link](https://github.com/manzur-shaheed/ms-team-profile-generator) and run it locally on your computer. 
+
+#### Video Link
+Watch a demo here (Quicktime Movie): [demo](https://drive.google.com/file/d/1jLAbYzBIuzytTycfBBPaeWNmKEw6ofr6/view?usp=sharing)
 #### Prerequisites 
 A computer with browser that supports javascript for adhoc js command testing, ```node.js``` and ```npm``` (node package manager). To clone code from github, you need to have aceess to the Internet. Also your computer should have Terminal (Unix) software installed. For Windows users, you can get it from https://www.cygwin.com/. For Mac users, it comes pre-installed with MacOS. 
 
